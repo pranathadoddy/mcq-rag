@@ -1,6 +1,3 @@
-Berikut adalah isi `README.md` dalam format **Markdown** yang siap kamu salin:
-
-````markdown
 # My Node.js TypeScript Project
 
 This project is built using Node.js and TypeScript. It includes several scripts for running a server, evaluating, vectorizing data, and deleting data.
@@ -17,6 +14,7 @@ Install the dependencies:
 ```bash
 npm install
 ```
+
 ````
 
 ## 🚀 Available Scripts
@@ -64,3 +62,4 @@ Runs the deletion script (`src/delete.ts`):
 ```bash
 npm run delete
 ```
+````
